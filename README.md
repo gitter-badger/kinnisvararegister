@@ -5,10 +5,10 @@ Luua avatud lähtekoodiga uus kinnisvararegister (eelkõige) avaliku sektori kin
 - investeeringute ja tegevuskulude kavandamine eelarvestamisel,
 - energiatõhususe aruandlus,
 
-## Valik olemasolevaid rakendusi:
+## Valik olemasolevaid või arendatavaid rakendusi:
 
-- [Riigi kinnisvararegister](https://riigivara.fin.ee/kvr/)
-- [Tallinna kinnisvararegister](https://riha.eesti.ee/riha/main/inf/tallinna_kinnisvararegister)
+- [Riigi kinnisvararegister](https://riigivara.fin.ee/kvr/), [RIHA](https://riha.eesti.ee/riha/main/inf/riigi_kinnisvara_register)
+- Tallinna kinnisvararegister, [RIHA](https://riha.eesti.ee/riha/main/inf/tallinna_kinnisvararegister)
 
 ## Osale
 Kui soovid kaasa lüüa, siis üheks võimaluseks on kirjeldada vajadusi ja nõudeid, millele rakendus peaks vastama: https://github.com/e-ehitis/kinnisvararegister/labels/requirement 
