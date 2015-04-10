@@ -2,7 +2,7 @@
 Luua avatud lähtekoodiga uus kinnisvararegister (eelkõige) avaliku sektori kinnisvaraportfelli haldamiseks arvestades [e-ehitise](http://e-ehitis.ee/) visiooniga. Hetkel on nii keskvalitsus, omavalitsused kui muud avaliku sektori liikmed oma kinnisvaraportfellide haldamisel toimetanud omaette. Puudub portfelli ülevaade, ühine semantika, aruandlus, äriprotsesside kirjeldused.
 
 ## Kasutuslood
-- porfelli ülevaade (#1),
+- [porfelli ülevaade](https://github.com/e-ehitis/kinnisvararegister/issues/1),
 - pinnakasutuse, tegevuskulude jne võrdlus,
 - energiatõhususe aruandlus,
 - ...
