@@ -12,5 +12,5 @@ https://github.com/e-ehitis/kinnisvararegister/labels/use%20case
 ## Osale
 Kui soovid kaasa lüüa, siis üheks võimaluseks on kirjeldada [kasutuslugusid](https://github.com/e-ehitis/kinnisvararegister/labels/use%20case) ja [nõudeid](https://github.com/e-ehitis/kinnisvararegister/labels/requirement), millele rakendus peaks vastama.
 
-Projekti koordineerib Tormi Tabor (@tormi) Rahandusministeeriumist (tel. 611 3168).
+Projekti koordineerib [Tormi Tabor](https://github.com/tormi) Rahandusministeeriumist (tel. 611 3168).
 
