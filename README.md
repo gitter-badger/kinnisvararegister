@@ -1,4 +1,6 @@
 ## Eesmärk
+
+[![Join the chat at https://gitter.im/e-ehitis/kinnisvararegister](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/e-ehitis/kinnisvararegister?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Luua avatud lähtekoodiga uus kinnisvararegister (eelkõige) avaliku sektori kinnisvaraportfelli haldamiseks arvestades [e-ehitise](http://e-ehitis.ee/) visiooniga. Hetkel on nii keskvalitsus, omavalitsused kui muud avaliku sektori liikmed oma kinnisvaraportfellide haldamisel toimetanud omaette. Puudub portfelli ülevaade, ühine semantika, aruandlus, äriprotsesside kirjeldused.
 
 ## Kasutuslood
